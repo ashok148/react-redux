@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: aliceblue;
 }
 
 .App-logo {
@@ -35,4 +36,13 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+button{
+  color: black;
+  background-color: blueviolet;
+}
+input{
+  text-align: center;
+  background-color: aqua;
 }
